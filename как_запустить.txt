@@ -1,0 +1,8 @@
+заходим в папку server ( в консоли )
+пишем
+python -m venv env
+env\Scripts\activate
+pip install -r libs.txt
+python app.py
+
+Потом в папке клиент открываем index.html с помощью браузера и наслаждаемся сайтом.
